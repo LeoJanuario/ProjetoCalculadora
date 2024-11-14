@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "CalculadoraAPi.Controllers.CalculadoraController",
+    "Method": "Calcular",
+    "RelativePath": "api/Calculadora/Calcular",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "valor1",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "valor2",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "operacao",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthController",
+    "Method": "Login",
+    "RelativePath": "login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
