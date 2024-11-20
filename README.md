@@ -27,7 +27,6 @@ Este projeto é uma calculadora funcional que combina uma API desenvolvida em **
 - **Backend:** C# com .NET Core
 - **Frontend:** React
 - **Autenticação:** JWT
-- **Containerização:** Docker e Docker-Compose
 
 ---
 
