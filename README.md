@@ -72,4 +72,4 @@ npm start
 ### Passo 5: Acesse o Sistema
 
 - Frontend: [http://localhost:3000](http://localhost:3000)
-- API: [http://localhost:5000](http://localhost:5000)
+- API: [http://localhost:7142](http://localhost:7142)
